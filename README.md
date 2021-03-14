@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinshastri23
 - 👀 I’m interested in statistical predictive modelling with Machine Learning and Deep Learning. 
-- 🌱 I’m currently learning OpenCV and computer vision.
+- 🌱 I’m currently learning Tableau.
 - 💞️ I’m looking to collaborate on applications of ML in various business processes and data-driven innovations.
 - 📫 How to reach me: sachin.shastri1@gmail.com
 
